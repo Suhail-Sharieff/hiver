@@ -4,7 +4,7 @@
 [![Tests](https://img.shields.io/badge/pytest-22%20passed-brightgreen.svg)](tests/)
 [![Reproduction Time](https://img.shields.io/badge/reproduction-<2%20minutes-brightgreen.svg)](scripts/run_pipeline.py)
 
-An autonomous, grounded, and safety-audited AI Customer Support Agent for **@AmazonHelp** on Twitter, developed for the **Hiver SDE Intern Take-Home Assignment**.
+An autonomous, grounded, and safety-audited AI Customer Support Agent for **@AmazonHelp** on Twitter
 
 Given real customer-support Twitter threads from the `thoughtvector/customer-support-on-twitter` dataset, the system:
 1. **Classifies** incoming customer inquiries into 7 grounded intent categories.

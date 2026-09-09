@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "GOLD-001",
+    "tweet_id": "628",
+    "customer_text": "How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it’s only a week away",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry for the wait. You'll receive an email as soon as we have an estimated delivery date. ^FJ",
+    "created_at": "Tue Oct 31 21:57:24 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-002",
+    "tweet_id": "627",
+    "customer_text": "Yeah this is crazy we’re less than a week away and still no Shipping Information on something that we Pre-ordered back in August",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Thanks for your patience. ^KM",
+    "created_at": "Wed Nov 01 12:50:18 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-003",
+    "tweet_id": "632",
+    "customer_text": "my package was ‘accidentally’ opened.. 4 items missing worth £97. You need better delivery drivers!! https://t.co/f6SaVBSMqM",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry your order arrived in this condition! Please reach out to us for available options: https://t.co/JzP7hlA23B ^DG",
+    "created_at": "Tue Oct 31 21:34:58 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-004",
+    "tweet_id": "634",
+    "customer_text": "why is my order at my local courier for the last 6 days and still hasn’t been delivered to me?? Over 1 week late 😡",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry for the wait. Please reach out to us so we can take a closer look at this delivery: https://t.co/JzP7hlA23B ^SH",
+    "created_at": "Tue Oct 31 21:39:58 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-005",
+    "tweet_id": "646",
+    "customer_text": ".Item has not been delivered but tracking says it was handed to me over an hour ago... 2nd time this has happened. Sort it out https://t.co/42W82GcARk",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm so sorry you didn't receive your parcel! We'd like a chance to look into this with you here: https://t.co/JzP7hlA23B ^SY",
+    "created_at": "Tue Oct 31 21:40:30 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-006",
+    "tweet_id": "645",
+    "customer_text": "That page is useless - doesn’t allow me to state it hasn’t been delivered; only tells me it has! How can you sort this out?",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "You can also request a call back here Martin https://t.co/zH8UlhTGcc ^KM",
+    "created_at": "Wed Nov 01 08:04:52 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-007",
+    "tweet_id": "667",
+    "customer_text": "Anna Inspired in idea lab at school to be package being shipped to Narnia! \"Amazon can go anywhere\" according to Anna. https://t.co/TyvKhuu7su",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "You're not lion! She even shows witch way is up! That's quite the wardrobe! ^AC",
+    "created_at": "Tue Oct 31 22:11:10 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-008",
+    "tweet_id": "670",
+    "customer_text": "They sent the feckin' order to Germany! Some dozy driver is looking for an address in the wrong country! I'm so done with Amazon!",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Oh my! I'm sorry for the troubles! Contact us by Phone or Chat: https://t.co/JzP7hlA23B &amp; we'll be glad to help! ^FR",
+    "created_at": "Tue Oct 31 22:15:42 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-009",
+    "tweet_id": "676",
+    "customer_text": "Yeah idk the shipping company and it says “mike Ziemer” signed for it in the mail room at our building lol",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "That's okay! Thanks for checking! Please contact us by phone or chat and we can look into this: https://t.co/hApLpMlfHN ^BN",
+    "created_at": "Tue Oct 31 21:39:25 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-010",
+    "tweet_id": "686",
+    "customer_text": "Already contacted 3-4 times in the last month. But all I got was assurance that matter is escalated &amp; new status will be provided in 1 day!",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Please share your details here:https://t.co/GIJyeYqKE0 and I'll get back to you. 2/2 ^HD",
+    "created_at": "Tue Oct 31 22:06:53 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-011",
+    "tweet_id": "695",
+    "customer_text": "Just pulled another #Amazon delivery out of the bushes since the #amzl people can’t walk the extra 2 ft to my door. So tired of this.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry we let you down! We'd like to make sure this is addressed. Please provide some details here: https://t.co/z6evtFsZI5 ^BN",
+    "created_at": "Tue Oct 31 21:17:03 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-012",
+    "tweet_id": "1695",
+    "customer_text": "my order hasn’t arrived (it was due 14th October). Can you help?",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Hey Georgia! Sorry you haven't received your package. We'd love to help! What does the current tracking say on your order? ^AJ",
+    "created_at": "Tue Oct 31 22:40:01 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-013",
+    "tweet_id": "1715",
+    "customer_text": "Seriously ? I order 6 identical washing up bowls and they are all being dispatched as separate orders? My phone is buzzing non-stop!",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Sorry for the inconvenience! Check out how to manage your notifications here: https://t.co/DLN4bDuc5B ^SG",
+    "created_at": "Tue Oct 31 21:14:40 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-014",
+    "tweet_id": "1718",
+    "customer_text": "I ordered some parts of my costume late, but my amazon has a map of the driver and they're like, 6 houses away.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry for the long wait; what is your current order status showing when you review it: https://t.co/Y5jpI9gRhE? ^WM",
+    "created_at": "Tue Oct 31 22:33:25 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-015",
+    "tweet_id": "1717",
+    "customer_text": "My package just got here. All good, thank you!",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Thank you for keeping us posted, Rachael! ^BA",
+    "created_at": "Tue Oct 31 22:40:54 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-016",
+    "tweet_id": "1748",
+    "customer_text": "that is not my apartment!!!!!!! This is the sending time!!!! Where is my package!!!!!!!!!! https://t.co/EIY6DZUCDC",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "(2/2) Also, for your security, I'd recommend deleting the image, as it contains your tracking number. ^WT",
+    "created_at": "Tue Oct 31 22:07:19 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-017",
+    "tweet_id": "2547",
+    "customer_text": "Yeah I sent you a DM too. Had an email saying when it had been dispatched but nothing since.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "We're unable to view any account information via Twitter. What's the current tracking shown here: https://t.co/aaDyEz1VgE? ^AG",
+    "created_at": "Tue Oct 31 20:19:21 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-018",
+    "tweet_id": "2549",
+    "customer_text": "Hi, I ordered an item on 18 Oct which said it would be delivered by 20 Oct and I still haven't received it. Can you help? Thanks",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry you haven't received it yet! Have you had an e-mail regarding the order? Please check junk/spam and let us know! ^TG",
+    "created_at": "Tue Oct 31 19:24:59 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-019",
+    "tweet_id": "2556",
+    "customer_text": "I made a same day ship mid Monday and it said it would deliver that day. It didn’t. Today it still says out for delivery, still no show.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm so sorry for the late delivery, Kimmie! Our carriers can deliver until 8 PM, please keep us updated on its arrival. ^BE",
+    "created_at": "Tue Oct 31 22:51:14 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-020",
+    "tweet_id": "2565",
+    "customer_text": "Where is my order? https://t.co/pXnKSCo2ex",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry it hasn't arrived! Please reach us here: https://t.co/e6dQwzp386, so we can look into available options. ^SJ",
+    "created_at": "Tue Oct 31 22:36:21 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-021",
+    "tweet_id": "2568",
+    "customer_text": "Hey , why is your Prime 2-day delivery not arriving until Monday? Is there a holiday I don't know about?",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Most items are readily available for shipping; however, some aren't and may have a longer processing time than others. ^QJ",
+    "created_at": "Tue Oct 31 22:40:57 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-022",
+    "tweet_id": "2591",
+    "customer_text": "No on the card. It works only half the time. Yes on USPS. They say my delivery person won’t deliver anything over 30 lbs. just sends it back",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "We'd like another chance to look into this. Please reach out by phone or chat: https://t.co/hApLpMlfHN Please keep us updated. ^FJ",
+    "created_at": "Tue Oct 31 22:24:18 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-023",
+    "tweet_id": "2602",
+    "customer_text": "Rapidly losing faith in and their #esl CS ability to solve problems. No resolutions or follow ups.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Sorry for the poor experience. Without giving any account information, could you tell us what's going on? We'd love top help! ^MH",
+    "created_at": "Tue Oct 31 19:21:37 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-024",
+    "tweet_id": "3655",
+    "customer_text": "just noticed I paid £4.95 delivery on Amazon simply because I did not select the FREE delivery option, after I spent enough to qualify... what a RIP OFF, why is it not free automatically when qualifying",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Hi, you can edit your order at any time before it enters the dispatch process. To do this please check out our help page: https://t.co/wRa3FyXyBb ^KI",
+    "created_at": "Wed Nov 22 10:02:47 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-025",
+    "tweet_id": "3726",
+    "customer_text": "Why do you say that an article is eligible for free delivery then offer nothing but standard option at £4.75?",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Is everything in your basket eligible? You can find more info here: https://t.co/d1x19RiAXm Let us know if this helps! ^EB",
+    "created_at": "Tue Oct 31 22:53:28 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-026",
+    "tweet_id": "3759",
+    "customer_text": "you pay for prime expecting next day delivery. Then receive 2 emails half hr apart 'failed delivery' but your sitting at home 😡",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry your parcel wasn't delivered. Please reach us here: https://t.co/XRh1cqD2lT, so we can look into this with you. ^MO",
+    "created_at": "Tue Oct 31 21:40:54 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-027",
+    "tweet_id": "4864",
+    "customer_text": "Hey , maybe don't ask people to pay $8 for \"launch day arrival\" if you're not going to ship the package until the day after launch!",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry for the poor experience, Skylar. Were you given a reason for the delay? Check here: https://t.co/KhGfgWxX2q ^FD",
+    "created_at": "Tue Oct 31 23:08:45 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-028",
+    "tweet_id": "4863",
+    "customer_text": "They said it was UPS. UPS says they never received the package to deliver ¯\\_(ツ)_/¯",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "To confirm, what does the latest tracking update show? Please check here: https://t.co/eR31oAnsW2 ^BE",
+    "created_at": "Tue Oct 31 23:29:40 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-029",
+    "tweet_id": "4954",
+    "customer_text": "Got 2 packages delivered today from via their AMZL service. One package gets dumped at Leasing Office, which is not the address on package &amp; 1 package gets delivered to address on package, which is my apartment. 2 drivers, different results. I was home all day.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry for the frustration! We'd like to investigate and escalate this to the correct team. Please send us your details here: https://t.co/z3ZEuyUDXX ^JP",
+    "created_at": "Sun Nov 26 00:17:44 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-030",
+    "tweet_id": "4957",
+    "customer_text": "I swear Amazon are trying to annoy me, I've just ordered another package and had a shipped to wrong carrier facility message again and my order may be delayed. 1st echo dot and then 3 packages lost and now another echo dot possibly delayed.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry for the ongoing trouble with your deliveries! Have you had a chance to contact us about this: https://t.co/JzP7hlA23B? If so, what information or options were we able to offer? ^SB",
+    "created_at": "Sun Nov 26 00:20:16 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-031",
+    "tweet_id": "4956",
+    "customer_text": "I have no option but to see if my delivery arrives on the scheduled date. But I will contact customer services if it doesn't arrive on time.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Thanks for the additional information. Keep us posted on the arrival of your packages! Let us know if you have any further questions. ^SW",
+    "created_at": "Sun Nov 26 00:54:28 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-032",
+    "tweet_id": "5128",
+    "customer_text": "AMZL US Tracking ID TBA566517950000 it says delivered to mail room, I checked the mail and the front offce, the driver listed 1 package, in that one package was my XLR cables...I'm missing the controller.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Package marked delivered but missing; requires carrier GPS delivery scan check and manual refund/replacement override.",
+    "historical_reference_reply": "I understand your frustration! Our team would like a chance to address this concern. At your convenience, include your details here: https://t.co/hKZOmv3DMU ^SJ",
+    "created_at": "Sun Nov 26 00:17:31 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 4,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-033",
+    "tweet_id": "5131",
+    "customer_text": "the more I order from you guys, the more I'm going to stop being a customer....YOUR DRIVERS ARE USELESS. Once again they marked a package delivered when it clearly wasn't. I received one of two packages, yet they were both marked delivered. 3 times in 1 month! https://t.co/9UYVHPVWtE",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Package marked delivered but missing; requires carrier GPS delivery scan check and manual refund/replacement override.",
+    "historical_reference_reply": "I'm so sorry to hear your order was scanned as delivered when it wasn't. We'd like to help if we can. Just to confirm, who's the carrier shown on your order here: https://t.co/wBHsNpkyQZ? ^CC",
+    "created_at": "Sat Nov 25 22:53:46 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 4,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-034",
+    "tweet_id": "5139",
+    "customer_text": "Just ordered . Let’s see what gets here first. My package from which has been “On It’s Way” since 1:22am or the food. #TheRaceIsOn",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I'm sorry for this wait. Has the tracking information on your order updated: https://t.co/Y5jpI9gRhE? Deliveries continue through to 8PM so please keep us in the loop on your order's arrival. Thank you. ^DO",
+    "created_at": "Sun Nov 26 00:19:39 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-035",
+    "tweet_id": "5282",
+    "customer_text": "Okay amazon lost my package gr8",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Oh no! I'm sorry to hear your order hasn't arrived! Have you had a chance to contact us about this issue? If so, what options were we able to provide? We want to make sure this issue has been resolved for you! ^BN",
+    "created_at": "Sun Nov 26 00:15:17 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-036",
+    "tweet_id": "5284",
+    "customer_text": "I’m looking to reroute all my packages (except 1) to a nearby Amazon locker. I’ll DM you now :)",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Thanks for the information. We've responded to your DM. ^GG",
+    "created_at": "Sun Nov 26 00:31:15 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-037",
+    "tweet_id": "5331",
+    "customer_text": "live chat down in the UK and as a prime member I cannot t get any items delivered before Tuesday whats going on?",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "Hi there, I'm sorry for the delivery troubles! Just to confirm, are you trying to place an order right now, or is this an ongoing issue? Are we missing the promised delivery dates here: https://t.co/aaDyEz1VgE? ^DW",
+    "created_at": "Sat Nov 25 19:49:27 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-038",
+    "tweet_id": "6966",
+    "customer_text": "So for the 4th time the package I ordered was tossed onto my property instead of being left on my front porch. It was raining. Package wet. I’ve complained repeatedly to no avail. Since Amazon switched from USPS to local delivery Svc the SERVICE is terrible.",
+    "true_intent": "ORDER_STATUS_DELIVERY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard tracking status inquiry safely handled via authenticated 'Your Orders' tracking link.",
+    "historical_reference_reply": "I am so sorry this has happened. Can you please clarify the carrier for us? We want to assist! You can see that info here: https://t.co/WvaNTeDWQh ^BA",
+    "created_at": "Sun Nov 19 03:46:18 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-039",
+    "tweet_id": "654",
+    "customer_text": "Already started the return. UPS gets it from my doorstep tomorrow. Order 111-5014070-4118645",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Provide your details here: https://t.co/6f6cWZv7vm and my team will escalate the order to Amazon Logistics for feedback. ^EZ",
+    "created_at": "Tue Oct 31 22:53:50 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-040",
+    "tweet_id": "664",
+    "customer_text": "delivery I paid for today,didn’t arrive.why not?i paid enough for it.where is it??I’m unhappy.refund the delivery charge",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Oh no! Please contact us via phone/chat here: https://t.co/JzP7hlA23B We're unable to view order details via Twitter. ^KL",
+    "created_at": "Tue Oct 31 21:50:49 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-041",
+    "tweet_id": "1699",
+    "customer_text": "I called customer service and was told my membership wouldn't be renewed. I was just charged today. How do I get a refund? https://t.co/SeoQUsA0VA",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Canceling your Prime membership can be done here:https://t.co/MlOxxuNX7N. You'll be shown your estimated refund there. ^SK",
+    "created_at": "Tue Oct 31 22:34:38 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-042",
+    "tweet_id": "2570",
+    "customer_text": "yes i did,but amazonuk is not doing the refund process.if they do it .i will get the money",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I would like someone from our team to take a look into this for you, Sanu. Please reach out here: https://t.co/QtC7bueYoR ^LA",
+    "created_at": "Tue Oct 31 22:16:47 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-043",
+    "tweet_id": "2577",
+    "customer_text": "amazonuk took money without any https://t.co/w25zXi7DYp they are not giving it back nor giving clear statement of my refund proces",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm sorry for the frustration! Without giving personal/account details, could you tell us a bit more about what's going on? ^DG",
+    "created_at": "Tue Oct 31 21:17:08 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-044",
+    "tweet_id": "5117",
+    "customer_text": "I would like it replaced not refunded. But the sale is over, and doesn’t look like you have it in stock at the site. What are my other options?",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Thanks for reaching back out to us! If your item is not eligible for replacement, you can still return the item for a full refund instead. You can view your replacement and/or return options here: https://t.co/TGLNUK2VHy ^BN",
+    "created_at": "Sun Nov 26 00:21:42 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-045",
+    "tweet_id": "5127",
+    "customer_text": "And you guys have officially lost me as a customer. Was promised today...was never shipped. Give me my refund please so I may take my business else where. https://t.co/69tW0B5r9H",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm truly sorry for the inconvenience! We don't have access to your account via Twitter. We'd like to help if we can. Please connect with us here so we can assist you: https://t.co/hApLpMlfHN ^MO",
+    "created_at": "Wed Nov 29 05:56:23 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-046",
+    "tweet_id": "8511",
+    "customer_text": "UPS supposed to pick up a return package yesterday and bring return label... never showed.",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm sorry your package wasn't picked up! When you have a moment, reach out to us here: https://t.co/EKXRLsnxJu ^AC",
+    "created_at": "Tue Oct 31 23:52:35 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-047",
+    "tweet_id": "9767",
+    "customer_text": "Worst experience in shopping no product no refund , been 40 days. F&amp;it",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Please report this to our support team here: https://t.co/TdDksLo6Mf and we'll look into this. 2/2 ^HD",
+    "created_at": "Wed Nov 01 00:20:08 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-048",
+    "tweet_id": "9766",
+    "customer_text": "What support team are you talking about ? I called twice n they make it sound like they will graciously refund my money. But then nothing",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Sorry for this ordeal, Benish. Please share your details here: https://t.co/GIJyeYqKE0 and I'll get in touch with you. ^HD",
+    "created_at": "Wed Nov 01 00:29:41 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-049",
+    "tweet_id": "9780",
+    "customer_text": "I've returned several things lately and don't want Amazon to think I'm abusing the return policy.",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I understand! Returns can be made as long as they fall under this policy: https://t.co/i3QyGkjfQI. Hope this helps! ^BL",
+    "created_at": "Wed Nov 01 00:31:20 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-050",
+    "tweet_id": "9810",
+    "customer_text": "Was sent this item in 6x9 size. Trying to return &amp; UPS did not show up today. I'd keep item if I could get refund for price difference. https://t.co/G1a6por32Z",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "We would like to investigate further with you. Please reach out to us at your convenience: https://t.co/hApLpMlfHN ^JP",
+    "created_at": "Wed Nov 01 00:12:14 +0000 2017",
+    "human_evaluation": {
+      "groundedness": 5,
+      "empathy_and_tone": 4,
+      "actionability": 5,
+      "safety_and_pii": 5,
+      "escalation_appropriateness": 5,
+      "human_notes": "Verified against Amazon social CS standard operating procedure."
+    }
+  },
+  {
+    "id": "GOLD-051",
+    "tweet_id": "11976",
+    "customer_text": "Seriously what is up with ordering things and it being open? You guys shipping returned items. 2nd day in a row this happens :SMH: https://t.co/gMyT1z9Zu1",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "We do not want this to happen and are eager to help. Reach out to us for more assistance here: https://t.co/hApLpMlfHN ^LM",
+    "created_at": "Wed Nov 01 01:06:19 +0000 2017"
+  },
+  {
+    "id": "GOLD-052",
+    "tweet_id": "13167",
+    "customer_text": "Unable to what they promised not gave one plus 5 offer only sale product after they Dont care also not return back,Its hopless😡",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Sorry for the inconvenience. Please share your details here: https://t.co/GIJyeYqKE0 and I'll get in touch with you. ^MK",
+    "created_at": "Wed Nov 01 01:52:28 +0000 2017"
+  },
+  {
+    "id": "GOLD-053",
+    "tweet_id": "14286",
+    "customer_text": "If it isn't clear yet, I WANT MY MONEY BACK. I NEVER AUTHORIZED THE LAST 4 TRANSACTIONS THAT WERE MADE. WTF.",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm sorry you were charged unexpectedly! Please reach out to Amazon Pay for available options here: https://t.co/jiY13BA3fb ^JP",
+    "created_at": "Wed Nov 01 02:18:55 +0000 2017"
+  },
+  {
+    "id": "GOLD-054",
+    "tweet_id": "14855",
+    "customer_text": "407-8406190-7752345. i want refund amount -1399/- amazon seller was lying. amazon custamare care side also.",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^SC",
+    "created_at": "Wed Nov 01 02:33:42 +0000 2017"
+  },
+  {
+    "id": "GOLD-055",
+    "tweet_id": "14853",
+    "customer_text": "no body inform me. once u return that parcel. please send the tracking id or parcel details. but after 10days i call amazon custamare care",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Thank you for sharing your details, Dhinesh. We'll check your concern and reach you soon. ^VG",
+    "created_at": "Sat Nov 04 18:41:35 +0000 2017"
+  },
+  {
+    "id": "GOLD-056",
+    "tweet_id": "15272",
+    "customer_text": "Please don't help.u have very useless process of helping.if u want plz refund me atleast in time which is also now least expected",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Please share your details in the link provided above, we'll check the issue and assist you accordingly. (2/2) ^KA",
+    "created_at": "Wed Nov 01 02:54:01 +0000 2017"
+  },
+  {
+    "id": "GOLD-057",
+    "tweet_id": "15279",
+    "customer_text": "408-9273159-6369903.replacement ordered from 24th Oct.no1 contact me.Really worst courier service from Amazon",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Please don’t provide your order details, we consider them as personal information. Our Twitter page is visible to public. ^VM",
+    "created_at": "Wed Nov 01 02:53:34 +0000 2017"
+  },
+  {
+    "id": "GOLD-058",
+    "tweet_id": "15692",
+    "customer_text": "Haven't received my refund, it's been more than a week",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Sorry for the delay. Have you received the refund reference number? ^NS",
+    "created_at": "Mon Oct 30 09:42:21 +0000 2017"
+  },
+  {
+    "id": "GOLD-059",
+    "tweet_id": "15700",
+    "customer_text": "Hey I need an update on my refund! Can you help?",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "You may track your refunds using the link: https://t.co/LjYILTJREp. Please keep us posted. ^GS",
+    "created_at": "Mon Oct 30 05:51:24 +0000 2017"
+  },
+  {
+    "id": "GOLD-060",
+    "tweet_id": "16428",
+    "customer_text": "Not impressed with Amazon Logistics. Computer parts delayed a week and a refund is the only option? Really disappointed.",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm sorry it's been delayed. We'd like to look into this. Please send details about this order here: https://t.co/Wze1ktETWY. ^LH",
+    "created_at": "Wed Nov 01 03:27:06 +0000 2017"
+  },
+  {
+    "id": "GOLD-061",
+    "tweet_id": "16757",
+    "customer_text": "No one knows what to do to get my refund back to me! https://t.co/q71Ycboikm",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm sorry for the trouble. Generally, the bank can issue a refund to the new active card on file. Please keep us updated. ^LR",
+    "created_at": "Wed Nov 01 04:19:56 +0000 2017"
+  },
+  {
+    "id": "GOLD-062",
+    "tweet_id": "16784",
+    "customer_text": "That's what m doing n u making me believe more that refund policy by Amazon in India is really poor..! Ur seller is even not taking calls nw",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "As you have provided your details, we have our team working on your issue, Gautam. (1/2)^SF",
+    "created_at": "Tue Oct 17 10:43:11 +0000 2017"
+  },
+  {
+    "id": "GOLD-063",
+    "tweet_id": "16792",
+    "customer_text": "All m getting is apologies but no refund.. everything is online, unable to understand the delay!!",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "You must have received a correspondence to your registered email address, request you to check the same. ^SH",
+    "created_at": "Mon Oct 16 03:58:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-064",
+    "tweet_id": "16794",
+    "customer_text": "form has been filled awaiting for a solution n refund. I have already invested my energy in explaining before, kindly treat it urgent.",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Apologies for the bad experience. Thanks for sharing your details. We'll get in touch with you. Appreciate your patience. ^AK",
+    "created_at": "Sat Oct 14 10:32:22 +0000 2017"
+  },
+  {
+    "id": "GOLD-065",
+    "tweet_id": "16796",
+    "customer_text": "406-5758893-2189165 faulty pc. the pc. returned but no refund recd. till now, got mail refund will be made in 5 days, bt not done. https://t.co/1jCDRlwfIZ",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm sorry for the trouble. Please fill this form: https://t.co/beaaDm0muc and we’ll contact you at the earliest. ^AU",
+    "created_at": "Sat Oct 14 07:40:32 +0000 2017"
+  },
+  {
+    "id": "GOLD-066",
+    "tweet_id": "16805",
+    "customer_text": "Amazon its a complete fraud now u are saying u will ship till 7th please for god sake #help #cancelorder #refund #fraud #poorcustomerservice https://t.co/riuEM7g6om",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Could you please let us know if you had received any email stating the package was going to be shipped by 7th ? ^KS",
+    "created_at": "Thu Nov 02 18:46:53 +0000 2017"
+  },
+  {
+    "id": "GOLD-067",
+    "tweet_id": "16808",
+    "customer_text": "Do u hav brain the product is taking more then a week to reach me and i am #primememeber and can u read i need a #refund now i dnt #trust",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "details here: https://t.co/GIJyeYqKE0 and I'll get back to you. (3/3) ^KA",
+    "created_at": "Fri Nov 03 03:25:28 +0000 2017"
+  },
+  {
+    "id": "GOLD-068",
+    "tweet_id": "16817",
+    "customer_text": "When will i be getting a refund of this product #help #pleasebesensable https://t.co/gGgeU6tmhP",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Our team has sent you a correspondence. Kindly check it here: https://t.co/8DAc10S7ww ^AP",
+    "created_at": "Tue Nov 07 09:14:30 +0000 2017"
+  },
+  {
+    "id": "GOLD-069",
+    "tweet_id": "16820",
+    "customer_text": "Most #pethetic service right look at the time i am waiting since 2 days and guess wat I am a #primemember #badservice #refund https://t.co/KKsr3XCfjz",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'd like to take a closer look into this, please share your details here: https://t.co/GIJyeYqKE0. ^AG",
+    "created_at": "Tue Oct 31 06:20:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-070",
+    "tweet_id": "17256",
+    "customer_text": "wht explanation would you like 2 gv now as mor order got cancelled n products r returned back after waiting 4 mor thn two weeks?",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "I'm sorry about that. Could you confirm sharing your details in the link shared earlier? ^GK",
+    "created_at": "Wed Nov 01 03:52:18 +0000 2017"
+  },
+  {
+    "id": "GOLD-071",
+    "tweet_id": "17639",
+    "customer_text": "It is a doorstep pick up but I need to bear the charges for the courier while I am struggling to get a refund for the already paid order",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Was a pick up arranged on your order or were you asked to self-return it? Please tell us more. ^HK",
+    "created_at": "Wed Nov 01 04:41:59 +0000 2017"
+  },
+  {
+    "id": "GOLD-072",
+    "tweet_id": "17641",
+    "customer_text": "#pathetic customer service. New low in e-commerce. Trying to raise a return request 5 times. #Fail",
+    "true_intent": "RETURN_REFUND",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard return policy or return label request handled via online Returns Center link.",
+    "historical_reference_reply": "Sorry for the trouble while raising a return request. May I know if you have been asked to self return the item? ^SH",
+    "created_at": "Wed Nov 01 04:10:09 +0000 2017"
+  },
+  {
+    "id": "GOLD-073",
+    "tweet_id": "652",
+    "customer_text": "Is it possible to prevent AMZL from delivering my packages moving forward? Stuff is either lost/stolen/broken EVERY time.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Oh no! We want to hear more about your experience with AMZL. Please provide your feedback here: https://t.co/hApLpMlfHN ^SH",
+    "created_at": "Tue Oct 31 22:11:15 +0000 2017"
+  },
+  {
+    "id": "GOLD-074",
+    "tweet_id": "659",
+    "customer_text": ", it’d be nice if the book I waited 4 months for wasn’t damaged inside of an undented box. #twinpeaks #twin… https://t.co/Lac4K7iQzJ https://t.co/JroqJKrH9Q",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I'm sorry your book arrived this way! You can find replacement/refund options here: https://t.co/zRrkpVcaDF ^VS",
+    "created_at": "Tue Oct 31 22:02:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-075",
+    "tweet_id": "5119",
+    "customer_text": "#Amazon who packages these games. Ordered to games and both came rattling inside their cases. One is broken. Games may have suffered scratches. https://t.co/KqpOkpLeP8",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I'm sorry your items arrived in these conditions. Let's explore your return or replacement options here: https://t.co/RbboDygtAu ^GG",
+    "created_at": "Sun Nov 26 00:14:48 +0000 2017"
+  },
+  {
+    "id": "GOLD-076",
+    "tweet_id": "5124",
+    "customer_text": "Amazon delivery guy refused to give the police his ID and suddenly started sounding like an attorney. Good grief",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "We'd like to make sure this is addressed, Eric. Would you tell us more about what happened? ^AM",
+    "created_at": "Sat Nov 25 23:50:03 +0000 2017"
+  },
+  {
+    "id": "GOLD-077",
+    "tweet_id": "9781",
+    "customer_text": "I seem to have bad luck in trying to get undamaged books from . Sometimes it's damaged in delivery, but this one was packed this way. https://t.co/HnwtSE7e31",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I'm sorry about the damage, Raymond! Have you explored options for refund/replacement here: https://t.co/Y5jpI9gRhE? ^SH",
+    "created_at": "Wed Nov 01 00:14:56 +0000 2017"
+  },
+  {
+    "id": "GOLD-078",
+    "tweet_id": "11090",
+    "customer_text": "My drying rack was broken when I opened the box. What should I do ? https://t.co/II4YnrWx0E",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I'm sorry your order arrived damaged, Marsha! You can see available options for that item here: https://t.co/T994nVbxA2 ^LA",
+    "created_at": "Wed Nov 01 00:32:38 +0000 2017"
+  },
+  {
+    "id": "GOLD-079",
+    "tweet_id": "13189",
+    "customer_text": "Hi , I’ve purchased something via your app and it’s broken! How can I get it replaced?",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Hi, Reece! I'm sorry about the broken item. You can check into options here: https://t.co/Ueduyt85xq ^BL",
+    "created_at": "Wed Nov 01 01:44:51 +0000 2017"
+  },
+  {
+    "id": "GOLD-080",
+    "tweet_id": "14291",
+    "customer_text": "What the hell ?! This boxed is beyond damaged. I wanted a new one! https://t.co/J36cokDm6l",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I'm sorry! Was it shipped by Amazon or a third-party seller as seen here: https://t.co/MiIirnEONI? ^SE",
+    "created_at": "Wed Nov 01 01:42:36 +0000 2017"
+  },
+  {
+    "id": "GOLD-081",
+    "tweet_id": "18679",
+    "customer_text": "Amazon truck damaged my lawn my lawn .Love Amazon . So sad no one called me back today as promised! Why?",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Please send us your details here: https://t.co/PJ1sPeuPfz so we can look into this for you. ^LI",
+    "created_at": "Mon Sep 18 23:34:35 +0000 2017"
+  },
+  {
+    "id": "GOLD-082",
+    "tweet_id": "19485",
+    "customer_text": "I have received the product in damaged condition, it's tempered from outside though material was not spilling.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Apologies for the inconvenience. Have you tried reporting this to our support team here: https://t.co/2t6DQoUmNZ ? ^AB",
+    "created_at": "Wed Nov 01 06:13:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-083",
+    "tweet_id": "21407",
+    "customer_text": "I received product with torn package with clear damage however small though. Proper care was not taken while delivering. And now if I replace product it will take 5-7 days atleast which I can not afford. I have no option but to keep it and suffer due to bad practise in delivery.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Sorry to know you received a damaged product, we certainly did not expect this to happen. 1/2 ^PS",
+    "created_at": "Sat Nov 04 02:50:39 +0000 2017"
+  },
+  {
+    "id": "GOLD-084",
+    "tweet_id": "64184",
+    "customer_text": "Got the signed copy today .... Very excited .... thnx \"the boy with a broken heart\" https://t.co/a7vX1k2Wjr",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "After all, the antidote to heartache is love. Happy reading! ^KA",
+    "created_at": "Thu Nov 30 07:32:33 +0000 2017"
+  },
+  {
+    "id": "GOLD-085",
+    "tweet_id": "65688",
+    "customer_text": ".I’m kinda done - I spent 1.5 hours in talks with four (!) different hotliners which ended up not being able to help until I bought more (!) to have my cart be above $25 so I could return three other broken CDs. Will return &amp; scout local stores instead.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Were you advised as to why your cart had to be above $25? Were we able to provide a return label for the broken CDs?^PJ",
+    "created_at": "Thu Nov 30 08:48:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-086",
+    "tweet_id": "65686",
+    "customer_text": "So at this point I am led to believe that Amazon does not care about legacy media any more, else it would make sure it would arrive undamaged. Streaming of course makes more money long-term than selling an album once, I get it.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Apologies for the trouble this has caused, Roland. We're always looking for ways to improve! Please provide direct feedback regarding packaging here:https://t.co/fxgZ6hTrFA.^CN",
+    "created_at": "Thu Nov 30 09:18:33 +0000 2017"
+  },
+  {
+    "id": "GOLD-087",
+    "tweet_id": "65698",
+    "customer_text": "Alright, #Amazon. Ordered a CD. It came broken. Ordered a replacement. It came broken. Ordered a second replacement. Yes, it too came broken. It seems as if fluffy jiffy envelopes don't work as good as cardboard ones. Can't do no more exchanges, alas. Help, !",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I'm so sorry for the order issues. I know how frustrating that can be and we'll do our best to help! Please call in so we can take a closer look at the problem together here: https://t.co/hApLpMlfHN ^SG",
+    "created_at": "Thu Nov 30 06:11:48 +0000 2017"
+  },
+  {
+    "id": "GOLD-088",
+    "tweet_id": "65732",
+    "customer_text": "100% assurance , 100% trust broken .hoped that Amazon will fulfill the promises but disappointed 100%",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I get your disappointment, Jetender. Please allow our team to work on this for you. We'll get back to you with the best possible resolution. Appreciate your understanding. ^NK",
+    "created_at": "Tue Nov 28 13:04:23 +0000 2017"
+  },
+  {
+    "id": "GOLD-089",
+    "tweet_id": "65753",
+    "customer_text": "I will be heartbroken if Xenoblade Chronicles 2 does not arrive tomorrow. There are other items lost, overdue, and cancelled in my history. My customer email is iain at [twitter username].com.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Hi Iain! What is the current status on the tracking? Is it due for delivery tomorrow? Keep us posted!^CN",
+    "created_at": "Thu Nov 30 10:25:02 +0000 2017"
+  },
+  {
+    "id": "GOLD-090",
+    "tweet_id": "67443",
+    "customer_text": "I bought a product in July. It's now broken. But there's no option to get a replacement or raise a complaint. What do i do?? !!!",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Hello Pete! Is the item sold directly by Amazon or a seller?^CN",
+    "created_at": "Thu Nov 30 09:24:38 +0000 2017"
+  },
+  {
+    "id": "GOLD-091",
+    "tweet_id": "69701",
+    "customer_text": "We're not sure yet as we're trying to find where it is - if it's damaged what happens? As it's a Christmas gift",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Was it left in a safe place or perhaps with a neighbor? How were you advised it was left outside in rain? If any damage has happened we can look into replacing/refunding the order for you. ^NV",
+    "created_at": "Thu Nov 30 09:54:46 +0000 2017"
+  },
+  {
+    "id": "GOLD-092",
+    "tweet_id": "69971",
+    "customer_text": "delivered my prepaid order of Rs 2000 to a different address. That's not it delivered the wrong item too. Check DM.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "We'd like to check this for you. Kindly share your details here: https://t.co/GIJyeYqKE0 and I'll look into this. ^SG",
+    "created_at": "Wed Nov 29 14:19:48 +0000 2017"
+  },
+  {
+    "id": "GOLD-093",
+    "tweet_id": "71915",
+    "customer_text": "Hello, It's just formality to told u,ur not eligible for it ,it's my 4th time worth experience with Amazon .I had ordered headphones due to some circumstances it's damaged. So,I had call no of time with Amazon customer care and third party (\"SHOPODEALZ\")but they can't solved.",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "We're sorry to know about the issues with the product. All items fulfilled by a seller are safeguarded under our A-Z guarantee policy. However, we'd like to check this close and assist. Please share the required details, here: https://t.co/GIJyeYqKE0. ^YP",
+    "created_at": "Thu Nov 30 10:10:31 +0000 2017"
+  },
+  {
+    "id": "GOLD-094",
+    "tweet_id": "71957",
+    "customer_text": "Just got an email that it was lost or damaged",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Sorry to hear it Brian. Has a replacement or refund been issued? What did the email advise? ^NV",
+    "created_at": "Thu Nov 30 10:29:18 +0000 2017"
+  },
+  {
+    "id": "GOLD-095",
+    "tweet_id": "73460",
+    "customer_text": "This is what i received, broken car steering mobile holder from Order id : 402-4901639-7214711. This was unexpected from such a big brand https://t.co/ZQZ3KYMvZi",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Sorry to know you've received a faulty product, Prem. You can create a return request here: https://t.co/3yqvLnyTxi. Also, please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^SY",
+    "created_at": "Thu Nov 30 10:03:56 +0000 2017"
+  },
+  {
+    "id": "GOLD-096",
+    "tweet_id": "78815",
+    "customer_text": "Not damaged but someone could of stole my parcel so please can you tell your delivery driver",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Thanks for confirming Holly. Can you reported this to us directly via: https://t.co/JzP7hlA23B we can ensure the feedback is escalated for you to the carrier. Thanks. ^NV",
+    "created_at": "Thu Nov 30 13:24:07 +0000 2017"
+  },
+  {
+    "id": "GOLD-097",
+    "tweet_id": "86200",
+    "customer_text": "Yo IntelCom as a courier = #FAIL Delivery was very late so missed. No answer + site tracking broken. We want our shipment!",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "Sorry to hear you've had a negative experience Philip. Can I ask what the latest tracking update has been? You can check here: https://t.co/PyACxvY8Qo. ^TI",
+    "created_at": "Tue Nov 28 15:29:43 +0000 2017"
+  },
+  {
+    "id": "GOLD-098",
+    "tweet_id": "91393",
+    "customer_text": "How can you find my order of i didnt ordered it!! My brother ordered it for me and i received a defective one. And you are not listening at all. Provide me a refund!! This is going to be my last tweet if you are not going to solve",
+    "true_intent": "DAMAGED_DEFECTIVE_WRONG",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard damaged/wrong item replacement flow handled through self-service order replacement.",
+    "historical_reference_reply": "I get your concern, Emraan. We would be able to check the issue and assist you only if we receive the details of the account from which the order was placed. Request you to provide the order or account details in the link shared earlier accordingly for assistance. ^KA",
+    "created_at": "Fri Dec 01 03:36:53 +0000 2017"
+  },
+  {
+    "id": "GOLD-099",
+    "tweet_id": "621",
+    "customer_text": "I want my amazon payments account CLOSED. dm me please.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Security or financial fraud risk requires authenticated human identity verification.",
+    "historical_reference_reply": "I am unable to affect your account via Twitter. For real time support, phone or chat use this link: https://t.co/hApLpMlfHN ^CH",
+    "created_at": "Tue Oct 31 22:19:34 +0000 2017"
+  },
+  {
+    "id": "GOLD-100",
+    "tweet_id": "643",
+    "customer_text": "Bought an Echo Show and it won’t recognize a single account in our household. WTF, guys?",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Oh no, I'm sorry for the issues! For troubleshooting, please check out our Echo Help pages here: https://t.co/a31c4ynHES ^SG",
+    "created_at": "Mon Oct 30 23:44:45 +0000 2017"
+  },
+  {
+    "id": "GOLD-101",
+    "tweet_id": "1701",
+    "customer_text": "You have to log in. I don't remember the email address I used. Can you look up the account by my bank information?",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Security or financial fraud risk requires authenticated human identity verification.",
+    "historical_reference_reply": "It would be best if you get in touch with us by phone or chat.use this link to do so: https://t.co/hApLpMlfHN ^CH",
+    "created_at": "Tue Oct 31 22:58:06 +0000 2017"
+  },
+  {
+    "id": "GOLD-102",
+    "tweet_id": "1706",
+    "customer_text": "I have tried. It’s not allowing me to access my account to cancel my membership, I haven’t even used prime in almost 3 months.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "I'm sorry to hear you're not able to access your account. Please use this link instead to contact us: https://t.co/zYVX1Qi29G. ^LH",
+    "created_at": "Tue Oct 31 22:33:08 +0000 2017"
+  },
+  {
+    "id": "GOLD-103",
+    "tweet_id": "1713",
+    "customer_text": "if I add another adult to my Amazon household (with their own account) can they see my wishlists/photos/order history?",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Thanks for reaching out to us! You can find info on adding household members here: https://t.co/i3uumZzaok ^MO",
+    "created_at": "Tue Oct 31 21:21:34 +0000 2017"
+  },
+  {
+    "id": "GOLD-104",
+    "tweet_id": "1736",
+    "customer_text": "Two fake items in one day. Time to cancel my Amazon Prime membership.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Oh no! I'm so sorry to hear this. Was the item sold by Amazon directly or Third-party seller: https://t.co/aaDyEz1VgE. ^LH",
+    "created_at": "Tue Oct 31 22:21:42 +0000 2017"
+  },
+  {
+    "id": "GOLD-105",
+    "tweet_id": "1744",
+    "customer_text": "It’s not allowing me to update it to register my new amazon account. I read I’d have to do so manually. Thx 4 response.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "No problem! You may need to deregister the Kindle from the old account. You can see how here: https://t.co/zyUJKBZObw ^AJ",
+    "created_at": "Tue Oct 31 22:50:15 +0000 2017"
+  },
+  {
+    "id": "GOLD-106",
+    "tweet_id": "2572",
+    "customer_text": "i mailed amazonuk so many time. but i havent got any progress.customer care just saying thats in the billing section.no i havent got refund",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Have you had a chance to speak with your bank regarding the refund? ^EA",
+    "created_at": "Tue Oct 31 22:00:12 +0000 2017"
+  },
+  {
+    "id": "GOLD-107",
+    "tweet_id": "3729",
+    "customer_text": "i reset my password 3 times and it still says incorrect you gotta be shitting me",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "I'm sorry for the trouble! Have you tried the steps outlined here? https://t.co/POJ37mWiEk ^LA",
+    "created_at": "Tue Oct 31 22:34:33 +0000 2017"
+  },
+  {
+    "id": "GOLD-108",
+    "tweet_id": "3733",
+    "customer_text": "um, my account was locked as soon as I tried to login on desktop. I still haven’t received an email on how to get it unlocked...",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "I'm sorry your account is locked! Please reach out directly to us here: https://t.co/jzvkhdlrK5 so we can take a closer look. ^TN",
+    "created_at": "Tue Oct 31 22:57:48 +0000 2017"
+  },
+  {
+    "id": "GOLD-109",
+    "tweet_id": "3756",
+    "customer_text": "I need to change the language of my account to be able to get support, which I don't have the time to do, there's any other way to contact?",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Changing language is just a simple click: https://t.co/CXXk5VglR4 You can reach our support here: https://t.co/aAfOxTGpe1 ^UK",
+    "created_at": "Thu Nov 02 10:31:10 +0000 2017"
+  },
+  {
+    "id": "GOLD-110",
+    "tweet_id": "4850",
+    "customer_text": "already tried help by mail and still problem persist, please close my account and don't want to be a customer anymore https://t.co/m2g5tP26fX",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Security or financial fraud risk requires authenticated human identity verification.",
+    "historical_reference_reply": "I'm sorry. We can't access your account via Twitter. For assistance, please reach us here: https://t.co/jzvkhdlrK5 ^WT",
+    "created_at": "Tue Oct 31 23:12:08 +0000 2017"
+  },
+  {
+    "id": "GOLD-111",
+    "tweet_id": "4855",
+    "customer_text": "no luck on receiving the code by text or call, will I loose my account, yesterday a phone representative tried to help already https://t.co/Yn5SUBQonU",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "I'm sorry for the challenge signing in. Please use the link from above again so that we can help. Keep us updated! ^MH",
+    "created_at": "Tue Oct 31 13:47:53 +0000 2017"
+  },
+  {
+    "id": "GOLD-112",
+    "tweet_id": "4859",
+    "customer_text": "Im not receiving 2step code by text or call in my smartphone can't log in into my account already got help by phone with no luck",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Sorry you're having problems logging in. Please let us know which Amazon site you are using (.com .es). Thanks. ^SE",
+    "created_at": "Mon Oct 30 23:53:59 +0000 2017"
+  },
+  {
+    "id": "GOLD-113",
+    "tweet_id": "5312",
+    "customer_text": "Still not working. They sent me a link to reset the password, try and sign in with new password and still locked out.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Security or financial fraud risk requires authenticated human identity verification.",
+    "historical_reference_reply": "Did information get sent to our Accounts Specialists to look into when you contacted in? ^DO",
+    "created_at": "Sat Nov 25 23:42:41 +0000 2017"
+  },
+  {
+    "id": "GOLD-114",
+    "tweet_id": "5315",
+    "customer_text": "Someone keeps trying to buy playstation cards on my account. Having a hard time getting customer service",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Thanks for letting us know about this, Jon. We're here to help! We can be reached 24/7 here: https://t.co/hApLpMlfHN. Please do keep us in the loop. ^BL",
+    "created_at": "Sat Nov 25 14:48:43 +0000 2017"
+  },
+  {
+    "id": "GOLD-115",
+    "tweet_id": "5328",
+    "customer_text": "Trying to place an order this happened before and deleting and rentering my address fixed it but now it's across multiple prime accounts to the same address",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Prime shipping refers to transit time after your orders ship, in working days. Some orders require additional processing and handling. The delivery date shown at checkout is the most accurate. ^LR",
+    "created_at": "Sun Nov 26 00:06:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-116",
+    "tweet_id": "9120",
+    "customer_text": "I’ve had nothing but trouble with 2/3 of my orders this month and I’m starting to doubt my continuing my prime membership",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Without posting account information, could you provide us with a few details about the issue? We'd like to help! ^WM",
+    "created_at": "Wed Nov 01 00:12:28 +0000 2017"
+  },
+  {
+    "id": "GOLD-117",
+    "tweet_id": "12496",
+    "customer_text": "WTF MAN. YALL LET SOME RANDO CHANGE MY EMAIL TO MY ACCOUNT AND NOW I CANT LOG IN. FIX IT!!!!!",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "I'm so sorry about that, Alexis. When you can, please reach us here so we can better assist: https://t.co/hApLpMlfHN ^BL",
+    "created_at": "Wed Nov 01 01:35:30 +0000 2017"
+  },
+  {
+    "id": "GOLD-118",
+    "tweet_id": "13159",
+    "customer_text": "I am now cancelling this order because your delivery service just sucks despite prime membership. Switching to for future.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "you've received from our team and we will get back to you with the latest update on your issue. (2/2)^SQ",
+    "created_at": "Sun Oct 22 16:05:38 +0000 2017"
+  },
+  {
+    "id": "GOLD-119",
+    "tweet_id": "13900",
+    "customer_text": "is there a way to know if the Amazon gift cards I send are being used?",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "You would only be able to confirm gift card balances on the account it is redeemed on. ^JP",
+    "created_at": "Wed Nov 01 01:56:33 +0000 2017"
+  },
+  {
+    "id": "GOLD-120",
+    "tweet_id": "13921",
+    "customer_text": "I talked on the phone to someone who offered 10 percent off but that isn't on the account yet. Still don't know delivery date.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Which carrier was assigned to deliver your package today? ^TN",
+    "created_at": "Wed Nov 01 02:47:06 +0000 2017"
+  },
+  {
+    "id": "GOLD-121",
+    "tweet_id": "15681",
+    "customer_text": "everytime I try to purachase something my account will get blocked.. worst service ever. sorry to tell that.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "I'm so sorry for the account trouble! Have you received an e-mail regarding this issue? If so, please reply to it for more info. ^CC",
+    "created_at": "Wed Nov 01 02:45:57 +0000 2017"
+  },
+  {
+    "id": "GOLD-122",
+    "tweet_id": "16776",
+    "customer_text": "Would like to thankyou for ur efforts..amount credited back to my account today.!!",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "You're most welcome. Glad to know that refund has been credited. Have a great day ahead! ^AR",
+    "created_at": "Wed Nov 01 03:52:31 +0000 2017"
+  },
+  {
+    "id": "GOLD-123",
+    "tweet_id": "16790",
+    "customer_text": "Last mail rec'd on 09.10.2017 stating refund will be in my account by 14.10.2017 Bt same not rec'd.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "That's strange. Kindly write back to the email received and we'll check this out for you. ^VM",
+    "created_at": "Mon Oct 16 04:34:47 +0000 2017"
+  },
+  {
+    "id": "GOLD-124",
+    "tweet_id": "16888",
+    "customer_text": "As compensation you are giving me 500 InR in account.. shame &amp; unethical...",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "I'm sorry about the disappointment. I'll be sure to pass your feedback to the concerned team internally. ^SG",
+    "created_at": "Thu Nov 02 17:30:28 +0000 2017"
+  },
+  {
+    "id": "GOLD-125",
+    "tweet_id": "17187",
+    "customer_text": "Kindly return my prime membership amount",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Please connect with our support team here: https://t.co/2t6DQoUmNZ for further assistance on it. ^RW",
+    "created_at": "Wed Nov 01 04:09:50 +0000 2017"
+  },
+  {
+    "id": "GOLD-126",
+    "tweet_id": "17209",
+    "customer_text": "After prime membership gaurantied delivery option has vanished now",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "If the factors do not provide the feasibility of a guaranteed delivery, the option will not be available. (2/2) ^ZH",
+    "created_at": "Tue Oct 31 05:50:01 +0000 2017"
+  },
+  {
+    "id": "GOLD-127",
+    "tweet_id": "17212",
+    "customer_text": "No use of prime membership, return my money",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Could you please confirm, if we've missed the estimated delivery date? ^AG",
+    "created_at": "Tue Oct 31 05:18:37 +0000 2017"
+  },
+  {
+    "id": "GOLD-128",
+    "tweet_id": "17216",
+    "customer_text": "what is the use of Prime Membership if I am not getting my parcel on time.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "We're sorry for the delay in the delivery of your order. Please contact us here: https://t.co/vlvfJr4nN9 and we'll help you ^ZH",
+    "created_at": "Tue Oct 31 04:36:23 +0000 2017"
+  },
+  {
+    "id": "GOLD-129",
+    "tweet_id": "17221",
+    "customer_text": "This form also has a tab which asks for the email address associated with my Amazon account but there is NONE. How do I fill in that? Urghh",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "select 'More order issues' &gt; choose from chat/phone/email we'll be glad to help. (3/3) ^KA",
+    "created_at": "Wed Nov 01 03:51:07 +0000 2017"
+  },
+  {
+    "id": "GOLD-130",
+    "tweet_id": "17229",
+    "customer_text": "I am unable to drop you a mail through this link as there's no email id associated with this account, it's a mobile account. Facing trouble.",
+    "true_intent": "ACCOUNT_PAYMENT_SECURITY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Standard account management/billing FAQ resolvable via self-service portal links.",
+    "historical_reference_reply": "Please log into your account using your mobile number and request a call back from us. We'll reach out to you and help. ^HK",
+    "created_at": "Tue Oct 31 07:31:26 +0000 2017"
+  },
+  {
+    "id": "GOLD-131",
+    "tweet_id": "617",
+    "customer_text": "Way to drop the ball on customer service so pissed right now!",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry we've let you down! Without providing any personal information, will you describe the issue? We'd love to help. ^TN",
+    "created_at": "Tue Oct 31 22:16:32 +0000 2017"
+  },
+  {
+    "id": "GOLD-132",
+    "tweet_id": "638",
+    "customer_text": "Hi ready for some help",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Were you able to reach us at the link DW provided? ^TR",
+    "created_at": "Tue Oct 31 22:19:56 +0000 2017"
+  },
+  {
+    "id": "GOLD-133",
+    "tweet_id": "640",
+    "customer_text": "Is the Echo Show no longer supported?",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "The Echo Show is supported, please reach us for some live troubleshooting at your convenience: https://t.co/hApLpMlfHN ^DW",
+    "created_at": "Tue Oct 31 01:03:01 +0000 2017"
+  },
+  {
+    "id": "GOLD-134",
+    "tweet_id": "649",
+    "customer_text": "In response to your packing video, this packaging was for a 2ft washing line pole https://t.co/X21SQHgC0K",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Thanks for bringing this to our attention! Please also leave packing feedback here: https://t.co/PMiShxgPvp so we may improve.^KL",
+    "created_at": "Tue Oct 31 22:17:47 +0000 2017"
+  },
+  {
+    "id": "GOLD-135",
+    "tweet_id": "651",
+    "customer_text": "I don't want a form to fill out that logs a response no one reads. I want to prevent AMZL from touching my stuff. Possible, or no?",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Is there a current order you're having difficulties with? Please let us know, we'd like to help! ^KL",
+    "created_at": "Tue Oct 31 22:25:58 +0000 2017"
+  },
+  {
+    "id": "GOLD-136",
+    "tweet_id": "657",
+    "customer_text": "Already handled, just venting. It was a pretty big bummer.",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Let us know if there’s anything else we can do for you! We're happy to help out any way we can! ^FR",
+    "created_at": "Tue Oct 31 22:18:42 +0000 2017"
+  },
+  {
+    "id": "GOLD-137",
+    "tweet_id": "690",
+    "customer_text": "Order# 3632693-6196346. You couldn't deliver EVEN AFTER A MONTH. You should be ashamed of yourself.",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Please report this to our support team here: https://t.co/TdDksLo6Mf and we'll look into this. 2/2 ^HD",
+    "created_at": "Tue Oct 31 21:45:15 +0000 2017"
+  },
+  {
+    "id": "GOLD-138",
+    "tweet_id": "693",
+    "customer_text": "since when you stop giving 20% off videogame pre-orders (amazon prime members) im confused? why?",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "We still offer discounts on eligible physical game pre-orders. For further details on Prime benefits: https://t.co/80y2YnlQGJ ^MB",
+    "created_at": "Tue Oct 31 22:10:21 +0000 2017"
+  },
+  {
+    "id": "GOLD-139",
+    "tweet_id": "1693",
+    "customer_text": "but I can’t find the options to cancel or re-order?",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry for the delay! We'd like to take a further look into this with you! Please reach us here: https://t.co/hApLpMlfHN ^AG",
+    "created_at": "Tue Oct 31 22:54:54 +0000 2017"
+  },
+  {
+    "id": "GOLD-140",
+    "tweet_id": "1698",
+    "customer_text": "Thats the thing I told customer service. I created a new email address for the Prime trial and forgot it. What can I do so I'm not charged?",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Hey Corey! Even on the new account you made you can turn of the auto renew through the same link ^SK posted for you. ^AJ",
+    "created_at": "Tue Oct 31 22:47:50 +0000 2017"
+  },
+  {
+    "id": "GOLD-141",
+    "tweet_id": "1708",
+    "customer_text": "being charged for amazon prime &amp; when I go to cancel it, it’s saying I’m not a member😠😠😠",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Hmm... We'd like to take a better look at this with you. Please reach us via phone/chat here: https://t.co/JzP7hlA23B ^KP",
+    "created_at": "Tue Oct 31 19:08:41 +0000 2017"
+  },
+  {
+    "id": "GOLD-142",
+    "tweet_id": "1710",
+    "customer_text": "where can I chat with a support member for a false charge",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry you've encountered an unknown charge! We'd be happy to look into this with you here: https://t.co/hApLpMlfHN ^BL",
+    "created_at": "Tue Oct 31 22:33:35 +0000 2017"
+  },
+  {
+    "id": "GOLD-143",
+    "tweet_id": "1722",
+    "customer_text": "Saying I preordered to early, terrible customer service. Won’t renew prime if this isn’t fixed.",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry for the frustration, Anthony! Can you tell me more about which pre-order bonuses are missing? ^EA",
+    "created_at": "Tue Oct 31 22:16:51 +0000 2017"
+  },
+  {
+    "id": "GOLD-144",
+    "tweet_id": "1721",
+    "customer_text": "Never got the beta and now I’m being told I won’t get ANY of the other stuff. Including Last Jedi content and or bonus classes. Anything! :(",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "We'd like to see what we can do to help. What date did you place the order on, and which version did you order? ^MB",
+    "created_at": "Tue Oct 31 22:37:35 +0000 2017"
+  },
+  {
+    "id": "GOLD-145",
+    "tweet_id": "1724",
+    "customer_text": "Deluxe edition on September 16th. It definitely had the pre orders on the profile because that’s why I ordered. Also why I paid for Prime..",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Could you link us to the page of the item on our website? This will allow us to take a closer look at all options. ^VB",
+    "created_at": "Tue Oct 31 22:48:50 +0000 2017"
+  },
+  {
+    "id": "GOLD-146",
+    "tweet_id": "1726",
+    "customer_text": "Star Wars Battlefront 2 Elite Trooper Deluxe Edition Playstation 4 https://t.co/6K7WdDcY2P preorder info is in description. Thanks for help",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Thanks for the link. We are not a participating retailer to receive the bonus content. Details: https://t.co/hJIrBtSMrl ^BE",
+    "created_at": "Tue Oct 31 23:05:46 +0000 2017"
+  },
+  {
+    "id": "GOLD-147",
+    "tweet_id": "1735",
+    "customer_text": "Fulfilled by Amazon. It’s quite disturbing you’re selling counterfeit items, and can’t be trusted.",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "We'd like to look into this with you in real time, Bry. When you can, please ring or chat in with us: https://t.co/JzP7hlA23B ^BL",
+    "created_at": "Tue Oct 31 22:41:11 +0000 2017"
+  },
+  {
+    "id": "GOLD-148",
+    "tweet_id": "1745",
+    "customer_text": "My Kindle not working properly is breaking my heart! 😩💔",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Oh no! We'd like to help you with this, Kelly! Can you tell us more about what's happening with the Kindle? Thanks! ^AJ",
+    "created_at": "Tue Oct 31 22:30:23 +0000 2017"
+  },
+  {
+    "id": "GOLD-149",
+    "tweet_id": "1752",
+    "customer_text": "Truly. This is the strangest vampire book I’ve ever received. 😜 cc #misship https://t.co/Zad7Az14Zg",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry you received an incorrect item. Have you checked out our return/replacement options here: https://t.co/FRsodhtXKJ? ^FJ",
+    "created_at": "Tue Oct 31 22:06:28 +0000 2017"
+  },
+  {
+    "id": "GOLD-150",
+    "tweet_id": "2543",
+    "customer_text": "Just now, don't use Amazon much so didn't know the process if you don't receive an item",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Please allow 48 hours for the seller to respond, Allen. Let us know how it works out and if we can help with anything else! ^CN",
+    "created_at": "Tue Oct 31 23:17:22 +0000 2017"
+  },
+  {
+    "id": "GOLD-151",
+    "tweet_id": "2553",
+    "customer_text": "Hi. How can I restrict results to German language books, while searching titles on amazon.de?",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Hi, just a question at the beginning - do you prefer answers in German or English? ^NW",
+    "created_at": "Tue Oct 31 17:07:01 +0000 2017"
+  },
+  {
+    "id": "GOLD-152",
+    "tweet_id": "2555",
+    "customer_text": "I allowed it well past 8 PM. I was never notified about any other delays",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry that it still hasn't arrived. Please contact us so that we can look into this together: https://t.co/hApLpMlfHN ^EA",
+    "created_at": "Wed Nov 01 01:55:49 +0000 2017"
+  },
+  {
+    "id": "GOLD-153",
+    "tweet_id": "2561",
+    "customer_text": "Erm I bought this item for £5.99... why am I only getting £1.67 back?! https://t.co/lb33bFOcW0",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "We'd like to take a closer look into this refund for you. Please reach us at:https://t.co/JzP7hlA23B ^CC",
+    "created_at": "Tue Oct 31 21:26:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-154",
+    "tweet_id": "2580",
+    "customer_text": "the queue is clueless on Amazon Household",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry for the frustration! Without giving account/personal details, can you please provide us with more info? ^AC",
+    "created_at": "Tue Oct 31 22:46:16 +0000 2017"
+  },
+  {
+    "id": "GOLD-155",
+    "tweet_id": "2581",
+    "customer_text": "I've been in the prime queue, kindle queue, the echo queue, and now on hold again.",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "We'd like to look deeper into this issue. Please provide us with more information here: https://t.co/wpDDiHUP4k. ^LH",
+    "created_at": "Tue Oct 31 22:50:46 +0000 2017"
+  },
+  {
+    "id": "GOLD-156",
+    "tweet_id": "2584",
+    "customer_text": "Well ok but said it’s been dlvd so I can’t see how they will bother to deliver it now! I think they have washed their hands of it",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "We're definitely here to help! Please reach out to us by phone here: https://t.co/JzP7hlA23B ^SE",
+    "created_at": "Tue Oct 31 22:11:58 +0000 2017"
+  },
+  {
+    "id": "GOLD-157",
+    "tweet_id": "2586",
+    "customer_text": "not dlvd after 1 wk. U lied 2 saying left in safe place on Fri. Yesterday u said wld be dlvd 24-48hrs. Sort this now!",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "I'm sorry your order hasn't arrived yet! Please let us know if you haven't received it within 48 hours. ^EB",
+    "created_at": "Tue Oct 31 20:28:23 +0000 2017"
+  },
+  {
+    "id": "GOLD-158",
+    "tweet_id": "2598",
+    "customer_text": "Multiple calls to call amazon call center with zero resolution and never a promised call back.",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Can you tell us what insight / advice was provided with when you spoke with us last? We'd like to help if we can. ^BG",
+    "created_at": "Tue Oct 31 19:52:08 +0000 2017"
+  },
+  {
+    "id": "GOLD-159",
+    "tweet_id": "3724",
+    "customer_text": "There was only one costing a lot more than £20 and FBA -stating eligibility !",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "We'd like to take a look into this with you. When you have a moment, please reach out to us here: https://t.co/qy3J24VGxb ^AC",
+    "created_at": "Tue Oct 31 23:04:13 +0000 2017"
+  },
+  {
+    "id": "GOLD-160",
+    "tweet_id": "3732",
+    "customer_text": "I can’t log in because it’s locked.",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "The link ^TN provided will allow you to contact us without signing in! Select \"skip log in\" and you'll be in touch in no time! ^VB",
+    "created_at": "Tue Oct 31 23:29:03 +0000 2017"
+  },
+  {
+    "id": "GOLD-161",
+    "tweet_id": "3742",
+    "customer_text": "Thanks for ruining #Halloween - still no sign of the costume I ordered in Sept. Guess Rosie will just have to sit this one out. https://t.co/1tVEv5DZuM",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Not what we like to hear at all, Ramya! Was this shipped by us or a seller? You can check here: https://t.co/PyACxvY8Qo ^BL",
+    "created_at": "Tue Oct 31 22:59:06 +0000 2017"
+  },
+  {
+    "id": "GOLD-162",
+    "tweet_id": "3749",
+    "customer_text": "why your videos on Germany breaks too?",
+    "true_intent": "PRODUCT_SERVICE_INQUIRY",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General product information or standard troubleshooting steps.",
+    "historical_reference_reply": "Have you already tried a restart? Kind regards ^NW",
+    "created_at": "Tue Oct 31 22:51:34 +0000 2017"
+  },
+  {
+    "id": "GOLD-163",
+    "tweet_id": "616",
+    "customer_text": "3 different people have given 3 different answers and I still don't have my order. Says delivered Saturday, was not, I was home all day",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "We'd like to take a further look into this with you! Please reach us by phone or chat here: https://t.co/hApLpMlfHN ^AG",
+    "created_at": "Tue Oct 31 23:22:08 +0000 2017"
+  },
+  {
+    "id": "GOLD-164",
+    "tweet_id": "1741",
+    "customer_text": "please spend time &amp; money to fix your app. Constant issues with it.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Oh no, Barton! Have you tried uninstalling and re-installing the app? Perhaps a power cycle too? Please let us know. ^KL",
+    "created_at": "Tue Oct 31 22:20:43 +0000 2017"
+  },
+  {
+    "id": "GOLD-165",
+    "tweet_id": "2559",
+    "customer_text": "hello, I’m having an issue with a same day ship order. Can you help me?",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Hello! We'd love to help. Can you tell us a bit more about what's happening? ^EB",
+    "created_at": "Tue Oct 31 22:18:10 +0000 2017"
+  },
+  {
+    "id": "GOLD-166",
+    "tweet_id": "2574",
+    "customer_text": "and redund issued on 13th https://t.co/1uydlorGCp no sing of my money and amazonuk just saying its in the billing department.no signof devlp",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "When you last contacted us what information did we provide? Have you spoken with your bank to see if they have the refund? ^LR",
+    "created_at": "Tue Oct 31 21:43:12 +0000 2017"
+  },
+  {
+    "id": "GOLD-167",
+    "tweet_id": "6958",
+    "customer_text": "Will do in morning. By the way, I’ve complained about this same issue 3 times and twice before directly to carrier.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "When you have a moment, please phone us here: https://t.co/hApLpMlfHN ^RR",
+    "created_at": "Sun Nov 19 04:03:20 +0000 2017"
+  },
+  {
+    "id": "GOLD-168",
+    "tweet_id": "6963",
+    "customer_text": "Thank you. Spoke with customer service who was very nice &amp; helpful &amp; put me straight through to a Competent logistics person who documented issue, researched my acct &amp; was going to contact delivery Svc directly to ensure procedures followed. Time will tell. Thank you.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "You're welcome. Reach out again if you have questions in the future. We're here to help. ^JF",
+    "created_at": "Sun Nov 19 20:26:07 +0000 2017"
+  },
+  {
+    "id": "GOLD-169",
+    "tweet_id": "9959",
+    "customer_text": "worst customer service; got hung up on twice",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "I'm so sorry we've let you down; that's never our intent! We'd like to take a closer look into this and explore options with you. Please reach us by phone or chat when you have a moment for direct assistance: https://t.co/hApLpMlfHN ^LL",
+    "created_at": "Wed Nov 22 01:03:54 +0000 2017"
+  },
+  {
+    "id": "GOLD-170",
+    "tweet_id": "12540",
+    "customer_text": "Message from Rahul from Social Media team. Upon checking your order I see that issue is being handled by Executive Customer Relations team.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "As requested, please respond on the requested email and our specialist team will reach out to you. ^HK",
+    "created_at": "Sun Oct 29 04:22:08 +0000 2017"
+  },
+  {
+    "id": "GOLD-171",
+    "tweet_id": "13135",
+    "customer_text": "6 different emails about the same order and none actually resolve the issue. You should be quite ashamed.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Please reply to the email received from our team. We will check and connect with you accordingly. ^RW",
+    "created_at": "Wed Nov 01 02:52:46 +0000 2017"
+  },
+  {
+    "id": "GOLD-172",
+    "tweet_id": "13142",
+    "customer_text": "Submitted, for the third time for the same issue.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Thanks for submitting the details. We've received your details and we'll reach out to you soon. ^GK",
+    "created_at": "Wed Nov 01 03:34:44 +0000 2017"
+  },
+  {
+    "id": "GOLD-173",
+    "tweet_id": "13865",
+    "customer_text": "you have wasted one month by bullsh****g me. now i am being told itvis out of warranty. issue is reported yo under warranty.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Sorry for the disappointment. Kindly reply to the email you've received from our team, we'll check and get back. ^KA",
+    "created_at": "Wed Nov 01 06:46:39 +0000 2017"
+  },
+  {
+    "id": "GOLD-174",
+    "tweet_id": "13888",
+    "customer_text": "I have visited multiple times. why would a sc change uts policy to meet ur unreasonable demands? this issue is ongoing since 1.5 months.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "If the manufacturer refuses to honor warranty on a device, you shall receive a service denial letter for the same. ^HK",
+    "created_at": "Tue Oct 31 07:53:39 +0000 2017"
+  },
+  {
+    "id": "GOLD-175",
+    "tweet_id": "13909",
+    "customer_text": "So what have you decided my dear ?? By this time you should've known the entire issue.I'm expecting a response from you",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "We have received your details. We are working on it and will get back to you with an update at the earliest. ^HR",
+    "created_at": "Tue Oct 24 09:31:57 +0000 2017"
+  },
+  {
+    "id": "GOLD-176",
+    "tweet_id": "16101",
+    "customer_text": "Thanks for solving my issue . But after 8 day it's really long time you took to solve . But #thanks",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Thanks for keeping us posted. I'll pass along your comments to our team and we'll work on this. ^GK",
+    "created_at": "Wed Nov 01 03:39:13 +0000 2017"
+  },
+  {
+    "id": "GOLD-177",
+    "tweet_id": "16117",
+    "customer_text": "No speedy respnse frm the seller side..I asked 2 return my money but they are not ready 2 clr my issue i need my query to b solved",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "time frame has passed and you haven't received any update or if you aren't satisfied with seller's reply then you may file 2/n ^SH",
+    "created_at": "Wed Nov 01 03:25:59 +0000 2017"
+  },
+  {
+    "id": "GOLD-178",
+    "tweet_id": "16764",
+    "customer_text": "Honestly, it's like a pyramid scheme. Pay extra to be mistreated. Issue not resolved even after 45 min calls. #disconected https://t.co/xffbrvQ2fl",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "I'm sorry for the poor experience! Will you tell us more about the issue and what info or options we were able to provide? ^BN",
+    "created_at": "Wed Nov 01 03:38:11 +0000 2017"
+  },
+  {
+    "id": "GOLD-179",
+    "tweet_id": "17234",
+    "customer_text": "Going to take this in the consumer court...total fraud from amazon i will sue you guys for this ... https://t.co/R8hCqnIS4i",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "We're unable to verify any detail over Twitter, Anjana. Please respond to our email so we could take it from there. ^JC",
+    "created_at": "Wed Nov 01 03:55:49 +0000 2017"
+  },
+  {
+    "id": "GOLD-180",
+    "tweet_id": "17263",
+    "customer_text": "last time i seek assistance n the same issue prevail today. whn you cnt gv service thn say no, why giving headache 2 customers?",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Apologies. Kindly let us know, where did we go wrong. We would like to make things right for you. ^CB",
+    "created_at": "Fri Oct 20 11:06:53 +0000 2017"
+  },
+  {
+    "id": "GOLD-181",
+    "tweet_id": "18689",
+    "customer_text": "What do you mean prices are ever changing? Is a stock exchange? And how can you charge more than MRP? Should I sue you?",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "We'd like to have a look into this. Kindly report it here: https://t.co/2t6DQoUmNZ and our team will assist further. ^AB",
+    "created_at": "Wed Nov 01 05:46:30 +0000 2017"
+  },
+  {
+    "id": "GOLD-182",
+    "tweet_id": "18691",
+    "customer_text": "This in unacceptable. You sell a book that has a MRP of Rs. 299 for Rs. 336 to me. Then, you drop the price to 302. https://t.co/Tut8jxM4vd",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Pricing and offers are decision of the sellers. The constantly changing marketplace 1/2^HN",
+    "created_at": "Tue Oct 31 17:31:10 +0000 2017"
+  },
+  {
+    "id": "GOLD-183",
+    "tweet_id": "18909",
+    "customer_text": "I would like to know what action taken from your side regarding my issue apart from regret emails??",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "We're working on it, Saurabh. We'll get in touch with you soon. ^JC",
+    "created_at": "Wed Nov 01 05:55:57 +0000 2017"
+  },
+  {
+    "id": "GOLD-184",
+    "tweet_id": "18908",
+    "customer_text": "In the last four days U people are not able to arrange the pick up??? Is there any time limit for this to solve the issue???",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "We've sent you a correspondence, kindly respond to that for further assistance. ^MN",
+    "created_at": "Thu Nov 02 15:55:51 +0000 2017"
+  },
+  {
+    "id": "GOLD-185",
+    "tweet_id": "18929",
+    "customer_text": "You people always escalated issue and for another 24 hours.kindly do something substantial.still issue is unresolved. such a poor service.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "Our team is currently working on your issue and will be resolved at the earliest. (1/2)^AU",
+    "created_at": "Tue Nov 07 07:46:58 +0000 2017"
+  },
+  {
+    "id": "GOLD-186",
+    "tweet_id": "19132",
+    "customer_text": "Its not my issue for return pick up. U people not mention any where before purchase product otherwise i think about purchase this order.",
+    "true_intent": "ESCALATION_COMPLAINT",
+    "true_escalation": "ESCALATE_TO_HUMAN",
+    "escalation_reason": "Severe dissatisfaction, repeat failed contacts, or explicit request for manager intervention.",
+    "historical_reference_reply": "I understand that you're upset, Dharmesh. Could you confirm, submitting your details using the link shared earlier? ^MP",
+    "created_at": "Tue Oct 31 11:09:01 +0000 2017"
+  },
+  {
+    "id": "GOLD-187",
+    "tweet_id": "636",
+    "customer_text": "Thanks for the style advice, look ...I think? #Halloween2017 #flamingo https://t.co/XvI54La043",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Alexa says both styles are working for you! My vote goes to the Flamingo look! ^SE",
+    "created_at": "Tue Oct 31 22:05:36 +0000 2017"
+  },
+  {
+    "id": "GOLD-188",
+    "tweet_id": "5803",
+    "customer_text": "#HappyHalloween2017 from your biggest fan. Thank you for creating #efficient and #healthy households nationwide! https://t.co/06sKXnGayh",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Thank YOU, Alisondra, for being one of our amazing customers! ^BE",
+    "created_at": "Tue Oct 31 23:11:22 +0000 2017"
+  },
+  {
+    "id": "GOLD-189",
+    "tweet_id": "9132",
+    "customer_text": "Haha has been sneakily charging me $9.99 SINCE FEBRUARY for a service I never use💩🙈👎 $90 gone!!! Thanks",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Oh no! We'd like to review these charges and available options with you. Please reach us here: https://t.co/hApLpMlfHN. ^EZ",
+    "created_at": "Wed Nov 01 00:09:41 +0000 2017"
+  },
+  {
+    "id": "GOLD-190",
+    "tweet_id": "13152",
+    "customer_text": "Thanks. I wish the same degree of concern were shown about my complaint though.",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Could you please confirm if you have replied to our email? ^MK",
+    "created_at": "Wed Nov 01 01:36:51 +0000 2017"
+  },
+  {
+    "id": "GOLD-191",
+    "tweet_id": "15268",
+    "customer_text": ".thanks for no replies whatsoever on my complaint.an you please tell me what more should I do?",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Please fill in your details using the link: https://t.co/JzRdscmdH9 and I'll get in touch with you soon. ^AK (2/2)",
+    "created_at": "Wed Nov 01 02:53:53 +0000 2017"
+  },
+  {
+    "id": "GOLD-192",
+    "tweet_id": "18187",
+    "customer_text": "They have promised me that my cashback of INR 1500 will be received by 5th November, hope this doesn't repeat in future. Thanks #AmazonIndia",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "I get your concern, Abhilash. Cash back shall be processed as per the timelines shared with you. Rest assured. ^SV",
+    "created_at": "Wed Nov 01 19:17:55 +0000 2017"
+  },
+  {
+    "id": "GOLD-193",
+    "tweet_id": "20764",
+    "customer_text": "can you let me know the status of parcel #Q40724393184. Thank you x",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "I'm so sorry! We don't have access to order information via Twitter. What does the tracking show here? https://t.co/aaDyEz1VgE ^TK",
+    "created_at": "Tue Oct 31 15:51:37 +0000 2017"
+  },
+  {
+    "id": "GOLD-194",
+    "tweet_id": "21032",
+    "customer_text": "Better yet, what's you customer support email so we can communicate via email? Thanks",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Sorry for the trouble with your account! You're welcome to reach out to us here: https://t.co/jzvkhdlrK5 ^BG",
+    "created_at": "Tue Oct 31 12:37:42 +0000 2017"
+  },
+  {
+    "id": "GOLD-195",
+    "tweet_id": "21863",
+    "customer_text": "So now I have to sell my kidneys to get an ab roller? #Amazon #LOL https://t.co/EAM1u3C0xl",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Thanks for flagging this. I'll forward this to the concerned team internally for a review. ^KA",
+    "created_at": "Wed Nov 01 07:37:14 +0000 2017"
+  },
+  {
+    "id": "GOLD-196",
+    "tweet_id": "22151",
+    "customer_text": "Oh no!!! Thanks anyway. Wish me luck trying to get tickets on Friday...",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Hi Helen, hope you saw the update that Brighton is included! Good news 😁 ^TS",
+    "created_at": "Wed Nov 01 08:49:44 +0000 2017"
+  },
+  {
+    "id": "GOLD-197",
+    "tweet_id": "22166",
+    "customer_text": "Thanks for spooking me on Halloween with an iPhone cable that caught on fire, needed a good scare #HappyHalloween2017",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "So sorry to hear about this. Hope you are ok. Please fill in the form: https://t.co/mk7tow11c4 and we will contact you. ^PK",
+    "created_at": "Wed Nov 01 08:14:31 +0000 2017"
+  },
+  {
+    "id": "GOLD-198",
+    "tweet_id": "22518",
+    "customer_text": "You have all the information you need - just reply here thanks. People get in touch this way because that is what they prefer - no forms, no phone calls, so please respond.",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "I have escalated your feedback about \"Please Let Me Go\" for correction. If we can help w/ anything else, let us know! ^KN 2/2",
+    "created_at": "Wed Nov 01 11:26:51 +0000 2017"
+  },
+  {
+    "id": "GOLD-199",
+    "tweet_id": "22527",
+    "customer_text": "Good morning - Day 4 of terrible customer service continues I guess Read: https://t.co/x4SJJe9gzc",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Pls fil out this secure form and a specialist will look into this for you https://t.co/tkLCr7DNil ^KM",
+    "created_at": "Wed Nov 01 08:33:55 +0000 2017"
+  },
+  {
+    "id": "GOLD-200",
+    "tweet_id": "24971",
+    "customer_text": "Thanks for the mold amazonfresh https://t.co/0GR6LuOxAp",
+    "true_intent": "FEEDBACK_CHITCHAT",
+    "true_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Positive feedback or casual chitchat requiring brand courtesy response.",
+    "historical_reference_reply": "Oh no!!! Have you been in touch with us about this? ^AS",
+    "created_at": "Wed Nov 01 09:32:51 +0000 2017"
+  }
+]

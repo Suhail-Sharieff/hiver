@@ -1,0 +1,1888 @@
+{
+  "num_samples": 200,
+  "system_results": {
+    "Trivial Baseline (Majority + Canned)": {
+      "elapsed_sec": 0.0,
+      "latency_per_query_ms": 0.0,
+      "intent_metrics": {
+        "accuracy": 0.19,
+        "macro_f1": 0.0456,
+        "micro_f1": 0.19,
+        "weighted_f1": 0.0607,
+        "per_class": {
+          "ACCOUNT_PAYMENT_SECURITY": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 32
+          },
+          "DAMAGED_DEFECTIVE_WRONG": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 26
+          },
+          "ESCALATION_COMPLAINT": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 24
+          },
+          "FEEDBACK_CHITCHAT": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 14
+          },
+          "ORDER_STATUS_DELIVERY": {
+            "precision": 0.19,
+            "recall": 1.0,
+            "f1": 0.3193,
+            "support": 38
+          },
+          "PRODUCT_SERVICE_INQUIRY": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 32
+          },
+          "RETURN_REFUND": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 34
+          }
+        },
+        "labels": [
+          "ACCOUNT_PAYMENT_SECURITY",
+          "DAMAGED_DEFECTIVE_WRONG",
+          "ESCALATION_COMPLAINT",
+          "FEEDBACK_CHITCHAT",
+          "ORDER_STATUS_DELIVERY",
+          "PRODUCT_SERVICE_INQUIRY",
+          "RETURN_REFUND"
+        ],
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0,
+            0,
+            32,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            26,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            24,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            14,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            38,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            32,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            34,
+            0,
+            0
+          ]
+        ]
+      },
+      "escalation_metrics": {
+        "accuracy": 0.85,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "false_negative_rate": 1.0,
+        "false_positive_rate": 0.0,
+        "confusion_matrix": {
+          "TP": 0,
+          "FP": 0,
+          "FN": 30,
+          "TN": 170
+        }
+      },
+      "lexical_metrics": {
+        "rouge_1": 0.1175,
+        "rouge_2": 0.0044,
+        "rouge_l": 0.0935,
+        "bleu_2": 0.0054,
+        "pii_leakage_rate": 0.0,
+        "avg_char_length": 122.0
+      },
+      "judge_metrics": {
+        "num_evaluated": 50,
+        "avg_groundedness": 2.4,
+        "avg_empathy_and_tone": 3.0,
+        "avg_actionability": 2.6,
+        "avg_safety_and_pii": 4.5,
+        "avg_escalation_appropriateness": 3.0,
+        "avg_overall_score": 3.1,
+        "individual_scores": [
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          },
+          {
+            "groundedness": 2.4,
+            "empathy_and_tone": 3.0,
+            "actionability": 2.6,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.0,
+            "overall_score": 3.1,
+            "feedback": "Trivial generic response fails to address the specific customer query or provide a concrete resolution path."
+          }
+        ]
+      }
+    },
+    "Simple Baseline (TF-IDF + Keyword)": {
+      "elapsed_sec": 0.21,
+      "latency_per_query_ms": 1.1,
+      "intent_metrics": {
+        "accuracy": 0.49,
+        "macro_f1": 0.4148,
+        "micro_f1": 0.49,
+        "weighted_f1": 0.474,
+        "per_class": {
+          "ACCOUNT_PAYMENT_SECURITY": {
+            "precision": 1.0,
+            "recall": 0.4688,
+            "f1": 0.6383,
+            "support": 32
+          },
+          "DAMAGED_DEFECTIVE_WRONG": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 26
+          },
+          "ESCALATION_COMPLAINT": {
+            "precision": 1.0,
+            "recall": 0.2917,
+            "f1": 0.4516,
+            "support": 24
+          },
+          "FEEDBACK_CHITCHAT": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 14
+          },
+          "ORDER_STATUS_DELIVERY": {
+            "precision": 0.7273,
+            "recall": 0.6316,
+            "f1": 0.6761,
+            "support": 38
+          },
+          "PRODUCT_SERVICE_INQUIRY": {
+            "precision": 0.2581,
+            "recall": 1.0,
+            "f1": 0.4103,
+            "support": 32
+          },
+          "RETURN_REFUND": {
+            "precision": 0.9524,
+            "recall": 0.5882,
+            "f1": 0.7273,
+            "support": 34
+          }
+        },
+        "labels": [
+          "ACCOUNT_PAYMENT_SECURITY",
+          "DAMAGED_DEFECTIVE_WRONG",
+          "ESCALATION_COMPLAINT",
+          "FEEDBACK_CHITCHAT",
+          "ORDER_STATUS_DELIVERY",
+          "PRODUCT_SERVICE_INQUIRY",
+          "RETURN_REFUND"
+        ],
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0,
+            1,
+            16,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            6,
+            19,
+            1
+          ],
+          [
+            0,
+            0,
+            7,
+            0,
+            1,
+            16,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            14,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            24,
+            14,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            32,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            13,
+            20
+          ]
+        ]
+      },
+      "escalation_metrics": {
+        "accuracy": 0.945,
+        "precision": 0.913,
+        "recall": 0.7,
+        "f1": 0.7925,
+        "false_negative_rate": 0.3,
+        "false_positive_rate": 0.0118,
+        "confusion_matrix": {
+          "TP": 21,
+          "FP": 2,
+          "FN": 9,
+          "TN": 168
+        }
+      },
+      "lexical_metrics": {
+        "rouge_1": 0.4486,
+        "rouge_2": 0.3556,
+        "rouge_l": 0.4255,
+        "bleu_2": 0.3638,
+        "pii_leakage_rate": 0.0,
+        "avg_char_length": 98.3
+      },
+      "judge_metrics": {
+        "num_evaluated": 50,
+        "avg_groundedness": 3.6,
+        "avg_empathy_and_tone": 3.8,
+        "avg_actionability": 3.7,
+        "avg_safety_and_pii": 4.5,
+        "avg_escalation_appropriateness": 3.9,
+        "avg_overall_score": 3.9,
+        "individual_scores": [
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          }
+        ]
+      }
+    },
+    "Production Agent (RAG + Guardrails)": {
+      "elapsed_sec": 0.24,
+      "latency_per_query_ms": 1.2,
+      "intent_metrics": {
+        "accuracy": 0.925,
+        "macro_f1": 0.9266,
+        "micro_f1": 0.925,
+        "weighted_f1": 0.9249,
+        "per_class": {
+          "ACCOUNT_PAYMENT_SECURITY": {
+            "precision": 0.9375,
+            "recall": 0.9375,
+            "f1": 0.9375,
+            "support": 32
+          },
+          "DAMAGED_DEFECTIVE_WRONG": {
+            "precision": 1.0,
+            "recall": 0.9231,
+            "f1": 0.96,
+            "support": 26
+          },
+          "ESCALATION_COMPLAINT": {
+            "precision": 0.96,
+            "recall": 1.0,
+            "f1": 0.9796,
+            "support": 24
+          },
+          "FEEDBACK_CHITCHAT": {
+            "precision": 0.8235,
+            "recall": 1.0,
+            "f1": 0.9032,
+            "support": 14
+          },
+          "ORDER_STATUS_DELIVERY": {
+            "precision": 0.8571,
+            "recall": 0.9474,
+            "f1": 0.9,
+            "support": 38
+          },
+          "PRODUCT_SERVICE_INQUIRY": {
+            "precision": 0.9286,
+            "recall": 0.8125,
+            "f1": 0.8667,
+            "support": 32
+          },
+          "RETURN_REFUND": {
+            "precision": 0.9688,
+            "recall": 0.9118,
+            "f1": 0.9394,
+            "support": 34
+          }
+        },
+        "labels": [
+          "ACCOUNT_PAYMENT_SECURITY",
+          "DAMAGED_DEFECTIVE_WRONG",
+          "ESCALATION_COMPLAINT",
+          "FEEDBACK_CHITCHAT",
+          "ORDER_STATUS_DELIVERY",
+          "PRODUCT_SERVICE_INQUIRY",
+          "RETURN_REFUND"
+        ],
+        "confusion_matrix": [
+          [
+            30,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            24,
+            0,
+            0,
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            24,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            14,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            36,
+            1,
+            0
+          ],
+          [
+            2,
+            0,
+            1,
+            2,
+            1,
+            26,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            31
+          ]
+        ]
+      },
+      "escalation_metrics": {
+        "accuracy": 0.95,
+        "precision": 0.7941,
+        "recall": 0.9,
+        "f1": 0.8438,
+        "false_negative_rate": 0.1,
+        "false_positive_rate": 0.0412,
+        "confusion_matrix": {
+          "TP": 27,
+          "FP": 7,
+          "FN": 3,
+          "TN": 163
+        }
+      },
+      "lexical_metrics": {
+        "rouge_1": 0.1734,
+        "rouge_2": 0.022,
+        "rouge_l": 0.1226,
+        "bleu_2": 0.035,
+        "pii_leakage_rate": 0.0,
+        "avg_char_length": 220.4
+      },
+      "judge_metrics": {
+        "num_evaluated": 50,
+        "avg_groundedness": 4.66,
+        "avg_empathy_and_tone": 4.68,
+        "avg_actionability": 4.76,
+        "avg_safety_and_pii": 4.94,
+        "avg_escalation_appropriateness": 4.69,
+        "avg_overall_score": 4.74,
+        "individual_scores": [
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 3.6,
+            "empathy_and_tone": 3.8,
+            "actionability": 3.7,
+            "safety_and_pii": 4.5,
+            "escalation_appropriateness": 3.9,
+            "overall_score": 3.9,
+            "feedback": "Partially grounded response copied from historical data; may not perfectly fit current customer context."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          },
+          {
+            "groundedness": 4.8,
+            "empathy_and_tone": 4.8,
+            "actionability": 4.9,
+            "safety_and_pii": 5.0,
+            "escalation_appropriateness": 4.8,
+            "overall_score": 4.86,
+            "feedback": "Excellent response: highly grounded in Amazon procedures, provides exact authenticated link, and enforces account security."
+          }
+        ]
+      }
+    }
+  },
+  "human_judge_agreement": {
+    "num_annotated_examples": 50,
+    "total_evaluations": 250,
+    "overall_exact_agreement_pct": 20.8,
+    "overall_adjacent_agreement_pct": 100.0,
+    "overall_pearson_r": 0.175,
+    "overall_quadratic_weighted_kappa": 0.0,
+    "dimensions": {
+      "groundedness": {
+        "mean_human": 4.96,
+        "mean_judge": 3.6,
+        "exact_agreement_rate": 4.0,
+        "adjacent_agreement_rate": 100.0,
+        "pearson_r": 0.0,
+        "quadratic_weighted_kappa": 0.0
+      },
+      "empathy_and_tone": {
+        "mean_human": 4.0,
+        "mean_judge": 3.8,
+        "exact_agreement_rate": 100.0,
+        "adjacent_agreement_rate": 100.0,
+        "pearson_r": 0.0,
+        "quadratic_weighted_kappa": 0.0
+      },
+      "actionability": {
+        "mean_human": 5.0,
+        "mean_judge": 3.7,
+        "exact_agreement_rate": 0.0,
+        "adjacent_agreement_rate": 100.0,
+        "pearson_r": 0.0,
+        "quadratic_weighted_kappa": 0.0
+      },
+      "safety_and_pii": {
+        "mean_human": 5.0,
+        "mean_judge": 4.5,
+        "exact_agreement_rate": 0.0,
+        "adjacent_agreement_rate": 100.0,
+        "pearson_r": 0.0,
+        "quadratic_weighted_kappa": 0.0
+      },
+      "escalation_appropriateness": {
+        "mean_human": 5.0,
+        "mean_judge": 3.9,
+        "exact_agreement_rate": 0.0,
+        "adjacent_agreement_rate": 100.0,
+        "pearson_r": 0.0,
+        "quadratic_weighted_kappa": 0.0
+      }
+    }
+  }
+}
